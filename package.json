@@ -79,8 +79,8 @@
     "yaml": "^2.3.2"
   },
   "scripts": {
-    "dev":"npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch", 
-    "build":"npx tailwindcss -o build.min.css --minify"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "build": "npx tailwindcss -o build.min.css --minify"
   },
   "author": "",
   "license": "ISC"
